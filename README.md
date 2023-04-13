@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/l396BoOTIFem9xqQU/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/l396BoOTIFem9xqQU/giphy.gif" width="400" />
   <h1 align="center"> Hola! Soy Cris.</h1>
   <h3 align="center"> Un nuevo desarrollador web que sabe un poco de todo.
     Me gusta practicar lo que se , actualizarme siempre y observar en que direccion nos lleva el futuro. 
